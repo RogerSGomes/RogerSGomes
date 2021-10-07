@@ -13,7 +13,7 @@
 ### E-commerceGames-React - (<a href="https://github.com/RogerSGomes/E-commerceGames-React">link do projeto completo</a>)
 <img src="./github/galeria2.jpg" />
 
-### ClockUIDark - (<a href="https://github.com/RogerSGomes/E-commerceGames-React">link do projeto completo</a>)
+### HTMLClockUIDark - (<a href="https://github.com/RogerSGomes/HTMLClockUIDark">link do projeto completo</a>)
 <img src="./github/galeria3.jpg" />
 
 ### TicTacToe - (<a href="https://github.com/RogerSGomes/E-commerceGames-React">link do projeto completo</a>)
