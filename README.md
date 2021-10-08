@@ -19,5 +19,5 @@
 ### HTMLFormLoginAnimated - (<a href="https://github.com/RogerSGomes/HTMLFormLoginAnimated">ver repositório</a>)
 <img src="./github/galeria4.jpg" />
 
-### ReactCloneUIDiscord - (<a href="https://github.com/RogerSGomes/HTMLFormLoginAnimated">ver repositório</a>)
+### ReactDiscordLayout - (<a href="https://github.com/RogerSGomes/ReactDiscordLayout">ver repositório</a>)
 <img src="./github/galeria5.jpg" />
