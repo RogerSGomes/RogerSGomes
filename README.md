@@ -7,14 +7,14 @@
 
 ## Galeria de projetos feitos
 
-### E-commerceGames - (<a href="https://github.com/RogerSGomes/E-commerceGames">link do projeto completo</a>)
+### E-commerceGames - (<a href="https://github.com/RogerSGomes/E-commerceGames">ver repositório</a>)
 <img src="./github/galeria1.jpg" />
 
-### E-commerceGames-React - (<a href="https://github.com/RogerSGomes/E-commerceGames-React">link do projeto completo</a>)
+### E-commerceGames-React - (<a href="https://github.com/RogerSGomes/E-commerceGames-React">ver repositório</a>)
 <img src="./github/galeria2.jpg" />
 
-### HTMLClockUIDark - (<a href="https://github.com/RogerSGomes/HTMLClockUIDark">link do projeto completo</a>)
+### HTMLClockUIDark - (<a href="https://github.com/RogerSGomes/HTMLClockUIDark">ver repositório</a>)
 <img src="./github/galeria3.jpg" />
 
-### TicTacToe - (<a href="https://github.com/RogerSGomes/E-commerceGames-React">link do projeto completo</a>)
+### HTMLFormLoginAnimated - (<a href="https://github.com/RogerSGomes/HTMLFormLoginAnimated">ver repositório</a>)
 <img src="./github/galeria4.jpg" />
