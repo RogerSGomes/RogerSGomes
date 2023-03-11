@@ -10,7 +10,7 @@
         srcset="https://github-readme-stats.vercel.app/api?username=RogerSGomes&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerSGomes&show_icons=true" />
+      <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=RogerSGomes&show_icons=true" />
     </picture>
     <picture>
       <source 
@@ -21,7 +21,7 @@
         srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerSGomes" />
+      <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerSGomes" />
     </picture>
 </div>
 
@@ -29,9 +29,9 @@
   <br>
   <br>
   <a href="https://github.com/RogerSGomes/E-CommerceGames">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=RogerSGomes&repo=E-CommerceGames" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RogerSGomes&repo=E-CommerceGames" />
   </a>
   <a href="https://github.com/RogerSGomes/E-CommerceGames-React">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=RogerSGomes&repo=E-CommerceGames-React" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RogerSGomes&repo=E-CommerceGames-React" />
   </a>
 </div>
