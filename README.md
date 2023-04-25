@@ -1,15 +1,7 @@
 <h2><strong>Olá!! Aqui é o Roger</strong></h2>
 
-<div style="inline_block">
-    <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=RogerSGomes&show_icons=true&theme=dracula"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=RogerSGomes&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=RogerSGomes&show_icons=true" />
-    </picture>
-</div>
+<div align="center">
+  <a href="https://github.com/matheuswanderley">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerSGomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerSGomes&layout=compact&langs_count=7&theme=dracula"/>
+      </div>
